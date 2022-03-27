@@ -1,4 +1,4 @@
-# Сборный проект 1
+# [Сборный проект 1](https://github.com/GarnetsAleksandr/yandex_praktikum/blob/main/5%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20-%201/garnets_m1_p5_v2.ipynb)
 
 **Описание проекта**
 
