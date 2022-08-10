@@ -1,4 +1,4 @@
-# [Дипломм "Аналитик данных"](https://github.com/GarnetsAleksandr/yandex_praktikum/blob/main/%D0%93%D0%B0%D1%80%D0%BD%D0%B5%D1%86%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_20222%D0%A6%D0%9F%D0%94%D0%9000428.pdf)
+# [Диплом "Аналитик данных"](https://github.com/GarnetsAleksandr/yandex_praktikum/blob/main/%D0%93%D0%B0%D1%80%D0%BD%D0%B5%D1%86%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_20222%D0%A6%D0%9F%D0%94%D0%9000428.pdf)
 
 # Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессия "Аналитик данных" 
 
